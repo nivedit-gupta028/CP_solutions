@@ -13,13 +13,6 @@ The repository relies on a flat, direct structure. Problems are named exclusivel
 CP_solutions/
 ├── README.md
 ├── LeetCode/
-│   └── 0009.py
 ├── NeetCode/
-│   ├── 0001.py
-│   └── 0125.py
 ├── CSES/
-│   ├── weird_algorithm.py
-│   └── building_roads.py
 └── Project_Euler/
-    ├── 001.py
-    └── 002.py
